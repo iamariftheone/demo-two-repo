@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+div {
+  background-color: aquamarine;
+  padding: 30px;
+  margin-bottom: 20px;
+}
